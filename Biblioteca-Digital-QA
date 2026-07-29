@@ -1,0 +1,62 @@
+Biblioteca-Digital-QA
+│
+├── README.md
+│
+├── 01-Requisitos
+│   ├── Requisitos_Funcionais.md
+│   ├── Requisitos_Nao_Funcionais.md
+│   ├── Historias_de_Usuario.md
+│   ├── Regras_de_Negocio.md
+│   └── Fluxo_da_Aplicacao.png
+│
+├── 02-Plano-de-Testes
+│   ├── Plano_de_Testes.md
+│   ├── Escopo.md
+│   ├── Cronograma.md
+│   └── Riscos.md
+│
+├── 03-Casos-de-Teste
+│   ├── Casos_Login.xlsx
+│   ├── Casos_Cadastro.xlsx
+│   ├── Casos_Livros.xlsx
+│   ├── Casos_Reserva.xlsx
+│   └── Casos_Emprestimo.xlsx
+│
+├── 04-Checklist
+│   ├── Checklist_Login.xlsx
+│   ├── Checklist_Cadastro.xlsx
+│   ├── Checklist_Livros.xlsx
+│   └── Checklist_API.xlsx
+│
+├── 05-Bugs
+│   ├── Bug_001_Login.pdf
+│   ├── Bug_002_Cadastro.pdf
+│   ├── Bug_003_API.pdf
+│   └── Bug_004_Interface.pdf
+│
+├── 06-Evidencias
+│   ├── Login
+│   ├── Cadastro
+│   ├── Livros
+│   ├── Reserva
+│   └── API
+│
+├── 07-API
+│   ├── Biblioteca.postman_collection.json
+│   ├── Biblioteca.postman_environment.json
+│   ├── Documentacao_API.md
+│   ├── Casos_API.xlsx
+│   └── Relatorio_API.md
+│
+├── 08-SQL
+│   ├── Consultas.sql
+│   ├── Script_Create.sql
+│   ├── Script_Insert.sql
+│   └── Banco_de_Dados.md
+│
+├── 09-Matriz-Rastreabilidade
+│   └── Matriz_Rastreabilidade.xlsx
+│
+└── 10-Apresentacao
+    ├── Apresentacao.pptx
+    └── Apresentacao.pdf
