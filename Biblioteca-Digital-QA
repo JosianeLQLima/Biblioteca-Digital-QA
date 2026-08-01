@@ -17,19 +17,19 @@ Biblioteca-Digital-QA
 │
 ├── 03-Casos-de-Teste
 │   ├──Casos-de-Teste.xlsx
-│       ├── Casos_Login
-│       ├── Casos_Cadastro
-│       ├── Casos_Livros
-│       ├── Casos_Reserva
-│       └── Casos_Emprestimo
+│   |    ├── Casos_Login
+│   |    ├── Casos_Cadastro
+│   |    ├── Casos_Livros
+│   |    ├── Casos_Reserva
+│   |    └── Casos_Emprestimo
 │
 ├── 04-Checklist
 │   ├──Checklist.xlsx
-│       ├── Checklist_Login
-│       ├── Checklist_Cadastro
-│       ├── Checklist_Livros
-│       ├── Checklist_Reserva
-│       └── Checklist_Emprestimo
+│   |    ├── Checklist_Login
+│   |    ├── Checklist_Cadastro
+│   |    ├── Checklist_Livros
+│   |    ├── Checklist_Reserva
+│   |    └── Checklist_Emprestimo
 │
 ├── 05-Bugs
 │   ├── Bug_001_Login.pdf
