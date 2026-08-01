@@ -16,6 +16,8 @@ Biblioteca-Digital-QA
 │   └── Riscos.md
 │
 ├── 03-Casos-de-Teste
+|   ├──Casos-de-Teste.md
+|   |
 │   ├──Casos-de-Teste.xlsx
 │   |    ├── Casos_Login
 │   |    ├── Casos_Cadastro
@@ -24,26 +26,32 @@ Biblioteca-Digital-QA
 │   |    └── Casos_Emprestimo
 │
 ├── 04-Checklist
+|   ├──Checklist.md
+|   |
 │   ├──Checklist.xlsx
 │   |    ├── Checklist_Login
 │   |    ├── Checklist_Cadastro
 │   |    ├── Checklist_Livros
 │   |    ├── Checklist_Reserva
 │   |    └── Checklist_Emprestimo
-│
+|
 ├── 05-Bugs
-│   ├── Bug_001_Login.pdf
-│   ├── Bug_002_Cadastro.pdf
-│   ├── Bug_003_API.pdf
-│   └── Bug_004_Interface.pdf
-│
-├── 06-Evidencias
-│   ├── Login
-│   ├── Cadastro
-│   ├── Livros
-│   ├── Reserva
-│   └── API
-│
+│   ├── Bugs.md
+│   │
+│   ├── Relatorio_de_Bugs.xlsx
+│   │     ├── Bugs_Login
+│   │     ├── Bugs_Cadastro
+│   │     ├── Bugs_Livros
+│   │     ├── Bugs_Reserva
+│   │     └── Bugs_Emprestimo
+│   │
+│   └── Evidencias
+│         ├── Login
+│         ├── Cadastro
+│         ├── Livros
+│         ├── Reserva
+│         └── Emprestimo
+|
 ├── 07-API
 │   ├── Biblioteca.postman_collection.json
 │   ├── Biblioteca.postman_environment.json
