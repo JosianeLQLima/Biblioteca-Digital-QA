@@ -125,8 +125,6 @@ Os casos de teste foram elaborados com base nos seguintes documentos do projeto:
 
 ```text
 03-Casos-de-Teste/
-│
-├── README.md
 └── Casos_de_Teste.xlsx
     ├── Login
     ├── Cadastro
